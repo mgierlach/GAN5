@@ -1,0 +1,2 @@
+Pattern==3.6
+cmudict
