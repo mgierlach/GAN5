@@ -1,4 +1,4 @@
-# GAN-based visual method computational creativity
+# GAN-based visual method computational creativity, using style transfer
 
 Computational Creativity group project built by: Mateusz Gierlach, Moritz Lange, Andrei-Daniel Comanescu, Tafseer Ahmed.
 
