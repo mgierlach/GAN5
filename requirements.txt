@@ -4,7 +4,7 @@ scikit-learn==0.20.3
 singledispatch==3.4.0.3
 six==1.12.0
 nltk>=3.4.5
-opencv-contrib-python==4.0.0.21
+opencv-contrib-python==4.2.0.32
 scikit-image==0.14.2
 pillow>=6.2.0
 Pattern==3.6
